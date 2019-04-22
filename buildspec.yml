@@ -7,4 +7,4 @@ version: 0.2
  artifacts: 
   files: 
      - 'Dockerfile' 
-	 - 'target/example-1.0.0-SNAPSHOT.jar' 
+     - 'target/example-1.0.0-SNAPSHOT.jar' 
